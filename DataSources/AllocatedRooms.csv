@@ -1,0 +1,501 @@
+RoomNo,WardNo,WardHead,ExtraService,MaximumSpace
+1,1,"Oliver	Jake",Ambulatory surgical center,20
+2,2,Michael,Birth center,30
+3,3,James,Blood bank,20
+4,4,John,Clinics and medical office,40
+5,5,Robert,Diabetes education center,70
+6,6,David,Dialysis Center,30
+7,7,William,Hospice home,55
+8,8,"Oliver	Jake",Imaging and radiology center,40
+9,1,Michael,Ambulatory surgical center,65
+10,2,James,Birth center,25
+11,3,John,Blood bank,60
+12,4,Robert,Clinics and medical office,40
+13,5,David,Diabetes education center,35
+14,6,William,Dialysis Center,55
+15,7,"Oliver	Jake",Hospice home,60
+16,8,Michael,Imaging and radiology center,90
+17,1,James,Ambulatory surgical center,15
+18,2,John,Birth center,48
+19,3,Robert,Blood bank,20
+20,4,David,Clinics and medical office,30
+21,5,William,Diabetes education center,20
+22,6,"Oliver	Jake",Dialysis Center,30
+23,7,Michael,Hospice home,20
+24,8,James,Imaging and radiology center,40
+25,1,John,Ambulatory surgical center,70
+26,2,Robert,Birth center,30
+27,3,David,Blood bank,55
+28,4,William,Clinics and medical office,40
+29,5,"Oliver	Jake",Diabetes education center,65
+30,6,Michael,Dialysis Center,25
+31,7,James,Hospice home,60
+32,8,John,Imaging and radiology center,40
+33,1,Robert,Ambulatory surgical center,35
+34,2,David,Birth center,55
+35,3,William,Blood bank,60
+36,4,"Oliver	Jake",Clinics and medical office,90
+37,5,Michael,Diabetes education center,15
+38,6,James,Dialysis Center,48
+39,7,John,Hospice home,20
+40,8,Robert,Imaging and radiology center,30
+41,1,David,Ambulatory surgical center,20
+42,2,William,Birth center,30
+43,3,WardHead,Blood bank,20
+44,4,"Oliver	Jake",Clinics and medical office,40
+45,5,Michael,Diabetes education center,70
+46,6,James,Dialysis Center,30
+47,7,John,Hospice home,55
+48,8,Robert,Imaging and radiology center,40
+49,1,David,Ambulatory surgical center,65
+50,2,William,Birth center,25
+51,3,"Oliver	Jake",Blood bank,60
+52,4,Michael,Clinics and medical office,40
+53,5,James,Diabetes education center,35
+54,6,John,Dialysis Center,55
+55,7,Robert,Hospice home,60
+56,8,David,Imaging and radiology center,90
+57,1,William,Ambulatory surgical center,15
+58,2,"Oliver	Jake",Birth center,48
+59,3,Michael,Blood bank,20
+60,4,James,Clinics and medical office,30
+61,5,John,Diabetes education center,20
+62,6,Robert,Dialysis Center,30
+63,7,David,Hospice home,20
+64,8,William,Imaging and radiology center,40
+65,1,"Oliver	Jake",Ambulatory surgical center,70
+66,2,Michael,Birth center,30
+67,3,James,Blood bank,55
+68,4,John,Clinics and medical office,40
+69,5,Robert,Diabetes education center,65
+70,6,David,Dialysis Center,25
+71,7,William,Hospice home,60
+72,8,"Oliver	Jake",Imaging and radiology center,40
+73,1,Michael,Ambulatory surgical center,35
+74,2,James,Birth center,55
+75,3,John,Blood bank,60
+76,4,Robert,Clinics and medical office,90
+77,5,David,Diabetes education center,15
+78,6,William,Dialysis Center,48
+79,7,"Oliver	Jake",Hospice home,20
+80,8,Michael,Imaging and radiology center,30
+81,1,James,Ambulatory surgical center,20
+82,2,John,Birth center,30
+83,3,Robert,Blood bank,20
+84,4,David,Clinics and medical office,40
+85,5,William,Diabetes education center,70
+86,6,"Oliver	Jake",Dialysis Center,30
+87,7,Michael,Hospice home,55
+88,8,James,Imaging and radiology center,40
+89,1,John,Ambulatory surgical center,65
+90,2,Robert,Birth center,25
+91,3,David,Blood bank,60
+92,4,William,Clinics and medical office,40
+93,5,"Oliver	Jake",Diabetes education center,35
+94,6,Michael,Dialysis Center,55
+95,7,James,Hospice home,60
+96,8,John,Imaging and radiology center,90
+97,1,Robert,Ambulatory surgical center,15
+98,2,David,Birth center,48
+99,3,William,Blood bank,20
+100,4,"Oliver	Jake",Clinics and medical office,30
+101,5,Michael,Diabetes education center,20
+102,6,James,Dialysis Center,30
+103,7,John,Hospice home,20
+104,8,Robert,Imaging and radiology center,40
+105,1,David,Ambulatory surgical center,70
+106,2,William,Birth center,30
+107,3,"Oliver	Jake",Blood bank,55
+108,4,Michael,Clinics and medical office,40
+109,5,James,Diabetes education center,65
+110,6,John,Dialysis Center,25
+111,7,Robert,Hospice home,60
+112,8,David,Imaging and radiology center,40
+113,1,William,Ambulatory surgical center,35
+114,2,"Oliver	Jake",Birth center,55
+115,3,Michael,Blood bank,60
+116,4,James,Clinics and medical office,90
+117,5,John,Diabetes education center,15
+118,6,Robert,Dialysis Center,48
+119,7,David,Hospice home,20
+120,8,William,Imaging and radiology center,30
+121,1,"Oliver	Jake",Ambulatory surgical center,20
+122,2,Michael,Birth center,30
+123,3,James,Blood bank,20
+124,4,John,Clinics and medical office,40
+125,5,Robert,Diabetes education center,70
+126,6,David,Dialysis Center,30
+127,7,William,Hospice home,55
+128,8,WardHead,Imaging and radiology center,40
+129,1,"Oliver	Jake",Ambulatory surgical center,65
+130,2,Michael,Birth center,25
+131,3,James,Blood bank,60
+132,4,John,Clinics and medical office,40
+133,5,Robert,Diabetes education center,35
+134,6,David,Dialysis Center,55
+135,7,William,Hospice home,60
+136,8,"Oliver	Jake",Imaging and radiology center,90
+137,1,Michael,Ambulatory surgical center,15
+138,2,James,Birth center,48
+139,3,John,Blood bank,20
+140,4,Robert,Clinics and medical office,30
+141,5,David,Diabetes education center,20
+142,6,William,Dialysis Center,30
+143,7,"Oliver	Jake",Hospice home,20
+144,8,Michael,Imaging and radiology center,40
+145,1,James,Ambulatory surgical center,70
+146,2,John,Birth center,30
+147,3,Robert,Blood bank,55
+148,4,David,Clinics and medical office,40
+149,5,William,Diabetes education center,65
+150,6,"Oliver	Jake",Dialysis Center,25
+151,7,Michael,Hospice home,60
+152,8,James,Imaging and radiology center,40
+153,1,John,Ambulatory surgical center,35
+154,2,Robert,Birth center,55
+155,3,David,Blood bank,60
+156,4,William,Clinics and medical office,90
+157,5,"Oliver	Jake",Diabetes education center,15
+158,6,Michael,Dialysis Center,48
+159,7,James,Hospice home,20
+160,8,John,Imaging and radiology center,30
+161,1,Robert,Ambulatory surgical center,20
+162,2,David,Birth center,30
+163,3,William,Blood bank,20
+164,4,"Oliver	Jake",Clinics and medical office,40
+165,5,Michael,Diabetes education center,70
+166,6,James,Dialysis Center,30
+167,7,John,Hospice home,55
+168,8,Robert,Imaging and radiology center,40
+169,1,David,Ambulatory surgical center,65
+170,2,William,Birth center,25
+171,3,"Oliver	Jake",Blood bank,60
+172,4,Michael,Clinics and medical office,40
+173,5,James,Diabetes education center,35
+174,6,John,Dialysis Center,55
+175,7,Robert,Hospice home,60
+176,8,David,Imaging and radiology center,90
+177,1,William,Ambulatory surgical center,15
+178,2,"Oliver	Jake",Birth center,48
+179,3,Michael,Blood bank,20
+180,4,James,Clinics and medical office,30
+181,5,John,Diabetes education center,20
+182,6,Robert,Dialysis Center,30
+183,7,David,Hospice home,20
+184,8,William,Imaging and radiology center,40
+185,1,"Oliver	Jake",Ambulatory surgical center,70
+186,2,Michael,Birth center,30
+187,3,James,Blood bank,55
+188,4,John,Clinics and medical office,40
+189,5,Robert,Diabetes education center,65
+190,6,David,Dialysis Center,25
+191,7,William,Hospice home,60
+192,8,"Oliver	Jake",Imaging and radiology center,40
+193,1,Michael,Ambulatory surgical center,35
+194,2,James,Birth center,55
+195,3,John,Blood bank,60
+196,4,Robert,Clinics and medical office,90
+197,5,David,Diabetes education center,15
+198,6,William,Dialysis Center,48
+199,7,"Oliver	Jake",Hospice home,20
+200,8,Michael,Imaging and radiology center,30
+201,1,James,Ambulatory surgical center,20
+202,2,John,Birth center,30
+203,3,Robert,Blood bank,20
+204,4,David,Clinics and medical office,40
+205,5,William,Diabetes education center,70
+206,6,"Oliver	Jake",Dialysis Center,30
+207,7,Michael,Hospice home,55
+208,8,James,Imaging and radiology center,40
+209,1,John,Ambulatory surgical center,65
+210,2,Robert,Birth center,25
+211,3,David,Blood bank,60
+212,4,William,Clinics and medical office,40
+213,5,WardHead,Diabetes education center,35
+214,6,"Oliver	Jake",Dialysis Center,55
+215,7,Michael,Hospice home,60
+216,8,James,Imaging and radiology center,90
+217,1,John,Ambulatory surgical center,15
+218,2,Robert,Birth center,48
+219,3,David,Blood bank,20
+220,4,William,Clinics and medical office,30
+221,5,"Oliver	Jake",Diabetes education center,20
+222,6,Michael,Dialysis Center,30
+223,7,James,Hospice home,20
+224,8,John,Imaging and radiology center,40
+225,1,Robert,Ambulatory surgical center,70
+226,2,David,Birth center,30
+227,3,William,Blood bank,55
+228,4,"Oliver	Jake",Clinics and medical office,40
+229,5,Michael,Diabetes education center,65
+230,6,James,Dialysis Center,25
+231,7,John,Hospice home,60
+232,8,Robert,Imaging and radiology center,40
+233,1,David,Ambulatory surgical center,35
+234,2,William,Birth center,55
+235,3,"Oliver	Jake",Blood bank,60
+236,4,Michael,Clinics and medical office,90
+237,5,James,Diabetes education center,15
+238,6,John,Dialysis Center,48
+239,7,Robert,Hospice home,20
+240,8,David,Imaging and radiology center,30
+241,1,William,Ambulatory surgical center,20
+242,2,"Oliver	Jake",Birth center,30
+243,3,Michael,Blood bank,20
+244,4,James,Clinics and medical office,40
+245,5,John,Diabetes education center,70
+246,6,Robert,Dialysis Center,30
+247,7,David,Hospice home,55
+248,8,William,Imaging and radiology center,40
+249,1,"Oliver	Jake",Ambulatory surgical center,65
+250,2,Michael,Birth center,25
+251,3,James,Blood bank,60
+252,4,John,Clinics and medical office,40
+253,5,Robert,Diabetes education center,35
+254,6,David,Dialysis Center,55
+255,7,William,Hospice home,60
+256,8,"Oliver	Jake",Imaging and radiology center,90
+257,1,Michael,Ambulatory surgical center,15
+258,2,James,Birth center,48
+259,3,John,Blood bank,20
+260,4,Robert,Clinics and medical office,30
+261,5,David,Diabetes education center,20
+262,6,William,Dialysis Center,30
+263,7,"Oliver	Jake",Hospice home,20
+264,8,Michael,Imaging and radiology center,40
+265,1,James,Ambulatory surgical center,70
+266,2,John,Birth center,30
+267,3,Robert,Blood bank,55
+268,4,David,Clinics and medical office,40
+269,5,William,Diabetes education center,65
+270,6,"Oliver	Jake",Dialysis Center,25
+271,7,Michael,Hospice home,60
+272,8,James,Imaging and radiology center,40
+273,1,John,Ambulatory surgical center,35
+274,2,Robert,Birth center,55
+275,3,David,Blood bank,60
+276,4,William,Clinics and medical office,90
+277,5,"Oliver	Jake",Diabetes education center,15
+278,6,Michael,Dialysis Center,48
+279,7,James,Hospice home,20
+280,8,John,Imaging and radiology center,30
+281,1,Robert,Ambulatory surgical center,20
+282,2,David,Birth center,30
+283,3,William,Blood bank,20
+284,4,"Oliver	Jake",Clinics and medical office,40
+285,5,Michael,Diabetes education center,70
+286,6,James,Dialysis Center,30
+287,7,John,Hospice home,55
+288,8,Robert,Imaging and radiology center,40
+289,1,David,Ambulatory surgical center,65
+290,2,William,Birth center,25
+291,3,"Oliver	Jake",Blood bank,60
+292,4,Michael,Clinics and medical office,40
+293,5,James,Diabetes education center,35
+294,6,John,Dialysis Center,55
+295,7,Robert,Hospice home,60
+296,8,David,Imaging and radiology center,90
+297,1,William,Ambulatory surgical center,15
+298,2,WardHead,Birth center,48
+299,3,"Oliver	Jake",Blood bank,20
+300,4,Michael,Clinics and medical office,30
+301,5,James,Diabetes education center,20
+302,6,John,Dialysis Center,30
+303,7,Robert,Hospice home,20
+304,8,David,Imaging and radiology center,40
+305,1,William,Ambulatory surgical center,70
+306,2,"Oliver	Jake",Birth center,30
+307,3,Michael,Blood bank,55
+308,4,James,Clinics and medical office,40
+309,5,John,Diabetes education center,65
+310,6,Robert,Dialysis Center,25
+311,7,David,Hospice home,60
+312,8,William,Imaging and radiology center,40
+313,1,"Oliver	Jake",Ambulatory surgical center,35
+314,2,Michael,Birth center,55
+315,3,James,Blood bank,60
+316,4,John,Clinics and medical office,90
+317,5,Robert,Diabetes education center,15
+318,6,David,Dialysis Center,48
+319,7,William,Hospice home,20
+320,8,"Oliver	Jake",Imaging and radiology center,30
+321,1,Michael,Ambulatory surgical center,20
+322,2,James,Birth center,30
+323,3,John,Blood bank,20
+324,4,Robert,Clinics and medical office,40
+325,5,David,Diabetes education center,70
+326,6,William,Dialysis Center,30
+327,7,"Oliver	Jake",Hospice home,55
+328,8,Michael,Imaging and radiology center,40
+329,1,James,Ambulatory surgical center,65
+330,2,John,Birth center,25
+331,3,Robert,Blood bank,60
+332,4,David,Clinics and medical office,40
+333,5,William,Diabetes education center,35
+334,6,"Oliver	Jake",Dialysis Center,55
+335,7,Michael,Hospice home,60
+336,8,James,Imaging and radiology center,90
+337,1,John,Ambulatory surgical center,15
+338,2,Robert,Birth center,48
+339,3,David,Blood bank,20
+340,4,William,Clinics and medical office,30
+341,5,"Oliver	Jake",Diabetes education center,20
+342,6,Michael,Dialysis Center,30
+343,7,James,Hospice home,20
+344,8,John,Imaging and radiology center,40
+345,1,Robert,Ambulatory surgical center,70
+346,2,David,Birth center,30
+347,3,William,Blood bank,55
+348,4,"Oliver	Jake",Clinics and medical office,40
+349,5,Michael,Diabetes education center,65
+350,6,James,Dialysis Center,25
+351,7,John,Hospice home,60
+352,8,Robert,Imaging and radiology center,40
+353,1,David,Ambulatory surgical center,35
+354,2,William,Birth center,55
+355,3,"Oliver	Jake",Blood bank,60
+356,4,Michael,Clinics and medical office,90
+357,5,James,Diabetes education center,15
+358,6,John,Dialysis Center,48
+359,7,Robert,Hospice home,20
+360,8,David,Imaging and radiology center,30
+361,1,William,Ambulatory surgical center,20
+362,2,"Oliver	Jake",Birth center,30
+363,3,Michael,Blood bank,20
+364,4,James,Clinics and medical office,40
+365,5,John,Diabetes education center,70
+366,6,Robert,Dialysis Center,30
+367,7,David,Hospice home,55
+368,8,William,Imaging and radiology center,40
+369,1,"Oliver	Jake",Ambulatory surgical center,65
+370,2,Michael,Birth center,25
+371,3,James,Blood bank,60
+372,4,John,Clinics and medical office,40
+373,5,Robert,Diabetes education center,35
+374,6,David,Dialysis Center,55
+375,7,William,Hospice home,60
+376,8,"Oliver	Jake",Imaging and radiology center,90
+377,1,Michael,Ambulatory surgical center,15
+378,2,James,Birth center,48
+379,3,John,Blood bank,20
+380,4,Robert,Clinics and medical office,30
+381,5,David,Diabetes education center,20
+382,6,William,Dialysis Center,30
+383,7,WardHead,Hospice home,20
+384,8,"Oliver	Jake",Imaging and radiology center,40
+385,1,Michael,Ambulatory surgical center,70
+386,2,James,Birth center,30
+387,3,John,Blood bank,55
+388,4,Robert,Clinics and medical office,40
+389,5,David,Diabetes education center,65
+390,6,William,Dialysis Center,25
+391,7,"Oliver	Jake",Hospice home,60
+392,8,Michael,Imaging and radiology center,40
+393,1,James,Ambulatory surgical center,35
+394,2,John,Birth center,55
+395,3,Robert,Blood bank,60
+396,4,David,Clinics and medical office,90
+397,5,William,Diabetes education center,15
+398,6,"Oliver	Jake",Dialysis Center,48
+399,7,Michael,Hospice home,20
+400,8,James,Imaging and radiology center,30
+401,1,John,Ambulatory surgical center,20
+402,2,Robert,Birth center,30
+403,3,David,Blood bank,20
+404,4,William,Clinics and medical office,40
+405,5,"Oliver	Jake",Diabetes education center,70
+406,6,Michael,Dialysis Center,30
+407,7,James,Hospice home,55
+408,8,John,Imaging and radiology center,40
+409,1,Robert,Ambulatory surgical center,65
+410,2,David,Birth center,25
+411,3,William,Blood bank,60
+412,4,"Oliver	Jake",Clinics and medical office,40
+413,5,Michael,Diabetes education center,35
+414,6,James,Dialysis Center,55
+415,7,John,Hospice home,60
+416,8,Robert,Imaging and radiology center,90
+417,1,David,Ambulatory surgical center,15
+418,2,William,Birth center,48
+419,3,"Oliver	Jake",Blood bank,20
+420,4,Michael,Clinics and medical office,30
+421,5,James,Diabetes education center,20
+422,6,John,Dialysis Center,30
+423,7,Robert,Hospice home,20
+424,8,David,Imaging and radiology center,40
+425,1,William,Ambulatory surgical center,70
+426,2,"Oliver	Jake",Birth center,30
+427,3,Michael,Blood bank,55
+428,4,James,Clinics and medical office,40
+429,5,John,Diabetes education center,65
+430,6,Robert,Dialysis Center,25
+431,7,David,Hospice home,60
+432,8,William,Imaging and radiology center,40
+433,1,"Oliver	Jake",Ambulatory surgical center,35
+434,2,Michael,Birth center,55
+435,3,James,Blood bank,60
+436,4,John,Clinics and medical office,90
+437,5,Robert,Diabetes education center,15
+438,6,David,Dialysis Center,48
+439,7,William,Hospice home,20
+440,8,"Oliver	Jake",Imaging and radiology center,30
+441,1,Michael,Ambulatory surgical center,20
+442,2,James,Birth center,30
+443,3,John,Blood bank,20
+444,4,Robert,Clinics and medical office,40
+445,5,David,Diabetes education center,70
+446,6,William,Dialysis Center,30
+447,7,"Oliver	Jake",Hospice home,55
+448,8,Michael,Imaging and radiology center,40
+449,1,James,Ambulatory surgical center,65
+450,2,John,Birth center,25
+451,3,Robert,Blood bank,60
+452,4,David,Clinics and medical office,40
+453,5,William,Diabetes education center,35
+454,6,"Oliver	Jake",Dialysis Center,55
+455,7,Michael,Hospice home,60
+456,8,James,Imaging and radiology center,90
+457,1,John,Ambulatory surgical center,15
+458,2,Robert,Birth center,48
+459,3,David,Blood bank,20
+460,4,William,Clinics and medical office,30
+461,5,"Oliver	Jake",Diabetes education center,20
+462,6,Michael,Dialysis Center,30
+463,7,James,Hospice home,20
+464,8,John,Imaging and radiology center,40
+465,1,Robert,Ambulatory surgical center,70
+466,2,David,Birth center,30
+467,3,William,Blood bank,55
+468,4,WardHead,Clinics and medical office,40
+469,5,"Oliver	Jake",Diabetes education center,65
+470,6,Michael,Dialysis Center,25
+471,7,James,Hospice home,60
+472,8,John,Imaging and radiology center,40
+473,1,Robert,Ambulatory surgical center,35
+474,2,David,Birth center,55
+475,3,William,Blood bank,60
+476,4,"Oliver	Jake",Clinics and medical office,90
+477,5,Michael,Diabetes education center,15
+478,6,James,Dialysis Center,48
+479,7,John,Hospice home,20
+480,8,Robert,Imaging and radiology center,30
+481,1,David,Ambulatory surgical center,20
+482,2,William,Birth center,30
+483,3,"Oliver	Jake",Blood bank,20
+484,4,Michael,Clinics and medical office,40
+485,5,James,Diabetes education center,70
+486,6,John,Dialysis Center,30
+487,7,Robert,Hospice home,55
+488,8,David,Imaging and radiology center,40
+489,1,William,Ambulatory surgical center,65
+490,2,"Oliver	Jake",Birth center,25
+491,3,Michael,Blood bank,60
+492,4,James,Clinics and medical office,40
+493,5,John,Diabetes education center,35
+494,6,Robert,Dialysis Center,55
+495,7,David,Hospice home,60
+496,8,William,Imaging and radiology center,90
+497,1,"Oliver	Jake",Ambulatory surgical center,15
+498,2,Michael,Birth center,48
+499,3,James,Blood bank,20
+500,4,John,Clinics and medical office,30
